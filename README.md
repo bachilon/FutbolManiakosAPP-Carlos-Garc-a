@@ -1,6 +1,7 @@
  Nombre de la aplicación: FUTBOLMANIAKOS
 		
-		Nombre del alumno: Carlos García Acevedo		
+	Nombre del alumno: Carlos García Acevedo	
+
 	Sprint: 1
 	
 	Fecha del Sprint: 18/04/2020
