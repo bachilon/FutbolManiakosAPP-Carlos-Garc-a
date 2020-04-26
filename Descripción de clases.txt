@@ -1,0 +1,18 @@
+Explicación del diagrama de clase de FutbolManiakos:
+
+Clasificación: Muestra la clasificación de cada equipo en la liga por puntos y su posición.
+
+Inicio de sesión: Esta clase lo que nos permite en la aplicación es el inicio de sesión web. Para poder entrar necesitamos el nick del usuario
+ y su contraseña para saber si esta registrado en la aplicación.También encontramos la opción de recuperación de contraseña introduciendo, 
+el correo electrónico o móvil con el que nos hemos registrado.
+
+
+Redes Sociales: Con esta clase utilizamos el atributo Nombre para indicar el nombre de la Red Social, su color con la que se identifica y el número de usarios que están registrados.
+
+Aportes al árbitro:Con esta clase podemos observar el nombre de los arbitros, en el ranking que se encuentrar y pedir alguna reclamación mediante un correo electrónico.
+
+Menú Principal:Con esta clase podemos observar el nombre de los distintos tipos de secciones que hay en la web, el número de usuarios online y las interacciones con el menu principal.
+
+Correo:Con esta clase podemos escribir un mensaje String al usuario cuya dirección de correo pongamos.En el cual ponemos un asunto, para quien va dirigido y quien lo ha enviado.
+
+Herramienta UML: Lucidchart Herramienta Markdown: StackEdit
