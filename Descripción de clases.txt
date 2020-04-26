@@ -6,7 +6,6 @@ Inicio de sesión: Esta clase lo que nos permite en la aplicación es el inicio 
  y su contraseña para saber si esta registrado en la aplicación.También encontramos la opción de recuperación de contraseña introduciendo, 
 el correo electrónico o móvil con el que nos hemos registrado.
 
-
 Redes Sociales: Con esta clase utilizamos el atributo Nombre para indicar el nombre de la Red Social, su color con la que se identifica y el número de usarios que están registrados.
 
 Aportes al árbitro:Con esta clase podemos observar el nombre de los arbitros, en el ranking que se encuentrar y pedir alguna reclamación mediante un correo electrónico.
