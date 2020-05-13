@@ -1,9 +1,0 @@
-Esta página web de la aplicación FutbolManiakos está estructurada de la siguientes forma:
-
--El nombre de la página se encuentra en la parte superior centrada.
-
--La página está divida en dos partes, en la parte de la izquierda encontramos el logo de la página web llamada Futbolmaniakos y el menu principal con sus distintos partes.
-
--En la parte derecha tendremos: el inicio y el cierre de sesión, un apartado para enviar correos y un navegador de búsqueda para encontrar lo que se necesite.También obervamos
-un poco más abajo observamos la clasificación de la liga española, un video del mejor gol futbolístico y un recuadro para poder seguirnos e n las distintas redes sociales.
-
