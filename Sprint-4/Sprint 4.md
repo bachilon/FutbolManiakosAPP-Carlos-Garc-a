@@ -2,7 +2,7 @@
 Sprint 4: Diagrama de uso de Clasificación
 
 ![enter image description here](https://imgur.com/q6uIOX0.png)
-icha técnica de uso.
+Ficha técnica de uso.
 
 Nombre: Clasificación
 
