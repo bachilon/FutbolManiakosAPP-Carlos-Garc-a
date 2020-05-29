@@ -27,11 +27,13 @@ y una segunda caja en la cual introducimos la reclamación o el mensaje.
 
 3.- El usuario introduce el mensaje y pulsa un botón para enviarlo.
 
-4.- El sistema guarda la información en su base de datos.
+4.- El sistema recibe la información del nuevo mensaje.
 
-5.- El sistema recibe la información del nuevo mensaje.
+5.- El sistema guarda la información en su base de datos.
 
-6.- El administrador recibe el mensaje y lo acepta si es un mensaje adecuado, por tanto el sistema publica el mensaje o reclamación.
+6.- El administrador recibe el mensaje y lo acepta si es un mensaje adecuado.
+
+7.- El sistema publica el mensaje o reclamación.
 
 Flujo Alternativo:
 
