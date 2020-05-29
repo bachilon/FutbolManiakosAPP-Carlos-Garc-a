@@ -14,8 +14,7 @@ Descripción: Nuestra aplicación Futbolmaniakos nos permite ver la clasificaci�
 
 Actores: Usuarios
 
-Precondiciones: El usuario no tiene porque tener una cuenta registrada en nuestra página, puede acceder a la clasficación aunque no este registrado.
-Sin embargo, si quiere consultar los goleadores y asistentes de cada liga necesita estar registrado en Futbolmaniakos.
+Precondiciones: No hay ninguna precondición.
 
 Flujo Normal:
 
@@ -27,14 +26,11 @@ Flujo Normal:
 
 4.- El sistema recibe la información y abre la clasificación elegida por el usuario.
 
-5.- El usuario puede consultar las veces que desee la clasificación.
+5.- El sistema tiene en cuenta las preferencias del usuario y la primera liga que te recomienda es la del país del usuario registrado.
 
-6.- El usuario puede seleccionar a su equipo favorito.
 
 Flujo Alternativo:
 
-5.A- El sistema tiene en cuenta las preferencias del usuario y la primera liga que te recomienda es la del país del usuario registrado.
+5.B- El usuario puede activar las notificaciones de su equipo, liga y jugadores favoritos.
 
-6.B- El usuario puede activar las notificaciones de su equipo, liga y jugadores favoritos.
-
-Poscondiciones: Para que el usuario pueda disfrutar totalmente de la aplicación Futbolmanikos necesita estar registrado.
+Poscondiciones: Ninguna.
