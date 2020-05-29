@@ -7,7 +7,7 @@ Sprint: 3
 
 Fecha del Sprint: 13/05/2020
 
-Tareas realizadas por el alumno: Creación de las relaciones del diagrama Diseño de Mockup "Aportes al árbitro" y su proyecto java.
+Tareas realizadas por el alumno: Creación de las relaciones del diagrama Diseño de Mockup "Aportes al árbitro" y su proyecto java correspondiente.
 
 Tiempo empleado en cada tarea: Pues aproximadamente unas 3 horas para realizar las relaciones del diagramay hacer su proyectos con las clases en java.
 
